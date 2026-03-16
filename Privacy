@@ -1,144 +1,123 @@
 # Privacy Policy – Bee Handfree
 
-**Ultimo aggiornamento:** 16.03.2026
+Ultimo aggiornamento: 16 marzo 2026
 
-Bee Handfree (“l’App”) è un’applicazione destinata agli apicoltori per la gestione delle attività e delle scadenze legate all’allevamento delle api regine.
+## ITALIANO
 
-La presente Informativa sulla Privacy descrive come vengono raccolti, utilizzati e protetti i dati personali degli utenti, ai sensi del Regolamento (UE) 2016/679 (GDPR) e della normativa applicabile.
+Bee Handfree tratta i dati personali esclusivamente per fornire le funzionalità dell'app dedicate alla gestione dell'apiario.
 
----
+### 1. Dati raccolti
 
-## 1. Titolare del trattamento
+L'app può trattare i seguenti dati:
+- indirizzo email e credenziali di accesso per autenticazione tramite Firebase Authentication
+- dati operativi inseriti dall'utente, come arnie, apiari, visite, note, warning, configurazioni e preferenze
+- dati tecnici necessari al funzionamento del servizio, come identificativi utente e identificativi interni dei record
 
-Titolare del trattamento è:
+### 2. Permessi richiesti
 
-**Giuseppe Di Paolo**
-Via Cardano 53, 80055 Portici (NA)
-info@beenjoy.it
+L'app può richiedere, con consenso esplicito dell'utente, i seguenti permessi:
+- microfono: per usare i comandi vocali e le funzioni di dettatura
+- posizione GPS: per rilevare la posizione dell'apiario o facilitare la localizzazione
 
-Per qualsiasi richiesta relativa alla privacy è possibile contattare il Titolare all’indirizzo email sopra indicato.
+Il consenso viene richiesto all'interno dell'app prima dell'eventuale richiesta del permesso di sistema del dispositivo.
 
----
+### 3. Finalità del trattamento
 
-## 2. Dati raccolti
+I dati sono utilizzati per:
+- consentire l'accesso sicuro all'account
+- sincronizzare i dati tra dispositivi dell'utente
+- salvare e organizzare le informazioni di gestione dell'apiario
+- permettere la collaborazione autorizzata tra utenti
+- eseguire funzioni richieste esplicitamente dall'utente, come voce e localizzazione
 
-Questa applicazione (“Bee Handfree”) raccoglie dati personali solo per il funzionamento dell’app e la sincronizzazione tra dispositivi tramite Firebase (Google). I dati raccolti includono:
-- Email e password per autenticazione
-- Dati tecnici delle arnie e delle visite
-- Preferenze utente
+### 4. Conservazione e condivisione dei dati
 
-Non vengono raccolti dati sensibili, né vengono venduti o condivisi con terze parti per fini commerciali. I dati sono conservati su server Google Firebase e accessibili solo all’utente autenticato e, se autorizzato, ai collaboratori del team.
+I dati sono conservati su infrastrutture Firebase/Google. I dati non vengono venduti a terzi e non vengono condivisi per finalità pubblicitarie o di profilazione commerciale.
 
-L’app può utilizzare strumenti di analytics anonimi per migliorare il servizio. Nessun dato viene utilizzato per profilazione pubblicitaria.
+I dati possono essere accessibili:
+- all'utente titolare dell'account
+- ai collaboratori espressamente autorizzati dal titolare
+- ai fornitori tecnici strettamente necessari all'erogazione del servizio, come Firebase
 
-Vengono in partiolare raccolti i seguenti tipi di dati: 
+### 5. Cancellazione account e dati
 
-### a) Dati forniti dall’utente
+L'utente può richiedere in autonomia la cancellazione del proprio account direttamente dall'app, nella sezione Profilo e Team.
 
-* Nome identificativo delle arnie
-* Nome identificativo degli apiari
-* Località inserite manualmente o tramite localizzazione GPS con consenso esplicito
-* Date di attività sul campo
-* Dati relativi alle attività di allevamento (Inserimento regine, celle reali, telaini, melari, trattamenti sanitari, nutrizione delle famiglie)
-* Eventuali note inserite dall’utente
+La cancellazione comporta la rimozione dei dati associati all'account, inclusi, ove presenti:
+- account di autenticazione
+- arnie
+- visite e note
+- apiari
+- autorizzazioni e collaborazioni collegate
+- comandi personalizzati
 
-Tali dati hanno natura professionale e non sono destinati a identificare direttamente la persona fisica.
+In alcuni casi Firebase può richiedere un accesso recente prima di completare l'eliminazione dell'account.
 
----
+### 6. Minori
 
-### b) Dati di localizzazione
+L'app non è destinata specificamente ai minori e non raccoglie consapevolmente dati personali di minori.
 
-Se l’utente inserisce una località, l’App utilizza tali informazioni esclusivamente per identificare l'apiario ed aprire l'elenco delle arnie ivi ubicate e solo dopo autorizzazione espressa dell'utente
+### 7. Contatti
 
----
-
-### c) Dati tecnici
-
-Possono essere raccolti automaticamente dati tecnici anonimi quali:
-
-* tipo di dispositivo
-* versione del sistema operativo
-* log tecnici per il corretto funzionamento dell’App
-
-Questi dati sono utilizzati esclusivamente per garantire stabilità e sicurezza.
-
----
-
-## 3. Finalità del trattamento
-
-I dati vengono trattati per:
-
-* Gestione delle scadenze e calendario delle attività di allevamento
-* Generazione di report statistici
-* Miglioramento delle funzionalità dell’App
-* Adempimento di obblighi di legge
-
-I dati non vengono utilizzati per finalità di marketing né ceduti a terzi per scopi commerciali.
+Per richieste relative alla privacy, ai dati personali o alla cancellazione dati è possibile scrivere a: info@beenjoy.it
 
 ---
 
-## 4. Base giuridica del trattamento
+## ENGLISH
 
-Il trattamento si basa su:
+Bee Handfree processes personal data only to provide the app features related to apiary management.
 
-* Esecuzione del servizio richiesto dall’utente (art. 6, par. 1, lett. b GDPR)
-* Consenso dell’utente (ove richiesto, ad esempio per servizi meteo o backup cloud)
-* Legittimo interesse del Titolare per garantire sicurezza e funzionamento dell’App
+### 1. Data collected
 
----
+The app may process the following data:
+- email address and login credentials for authentication through Firebase Authentication
+- operational data entered by the user, such as hives, apiaries, visits, notes, warnings, settings, and preferences
+- technical data required for service operation, such as user identifiers and internal record identifiers
 
-## 5. Servizi di terze parti
+### 2. Permissions requested
 
-L’App può utilizzare servizi esterni strettamente necessari al funzionamento:
+The app may request, with the user's explicit consent, the following permissions:
+- microphone: to use voice commands and dictation features
+- GPS location: to detect the apiary position or help with location-based functions
 
-### OpenWeather
+Consent is requested inside the app before any device-level system permission request is made.
 
-Per la fornitura delle previsioni meteo.
-I dati relativi alla località inserita possono essere trasmessi a tale servizio secondo la loro informativa privacy.
+### 3. Purpose of processing
 
-### Google Play Services
+Data is used to:
+- allow secure account access
+- sync user data across devices
+- save and organize apiary management information
+- enable authorized collaboration between users
+- perform functions explicitly requested by the user, such as voice and location features
 
-Per gestione download, pagamenti in-app e sicurezza della piattaforma.
+### 4. Data storage and sharing
 
-Si invita l’utente a consultare le rispettive informative privacy dei fornitori.
+Data is stored on Firebase/Google infrastructure. Data is not sold to third parties and is not shared for advertising or commercial profiling purposes.
 
----
+Data may be accessible to:
+- the account owner
+- collaborators explicitly authorized by the owner
+- technical service providers strictly necessary to deliver the service, such as Firebase
 
-## 6. Conservazione dei dati
+### 5. Account and data deletion
 
-I dati inseriti nell’App vengono conservati:
+The user can request deletion of their account directly from inside the app in the Profile and Team section.
 
-* Localmente sul dispositivo dell’utente
-* Eventualmente su server sicuri in caso di attivazione del backup cloud (se previsto)
+Deletion may remove data associated with the account, including where applicable:
+- authentication account
+- hives
+- visits and notes
+- apiaries
+- related authorizations and collaborations
+- custom commands
 
-I dati vengono conservati per il tempo necessario alla fornitura del servizio o fino alla cancellazione da parte dell’utente.
+In some cases Firebase may require a recent sign-in before completing account deletion.
 
----
+### 6. Children
 
-## 7. Diritti dell’utente
+The app is not specifically directed to children and does not knowingly collect personal data from children.
 
-Ai sensi del GDPR, l’utente può:
+### 7. Contact
 
-* Accedere ai propri dati
-* Chiederne la rettifica
-* Chiederne la cancellazione
-* Limitare il trattamento
-* Opporsi al trattamento
-* Richiedere la portabilità dei dati
-* Revocare il consenso in qualsiasi momento
-
-Le richieste possono essere inviate all’indirizzo email del Titolare.
-
----
-
-## 8. Sicurezza dei dati
-
-Bee Handfree adotta misure tecniche e organizzative adeguate per proteggere i dati da accessi non autorizzati, perdita o distruzione accidentale.
-
----
-
-## 9. Minori
-
-L’App non è destinata a minori di 16 anni e non raccoglie consapevolmente dati relativi a minori.
-
----
+For privacy, personal data, or data deletion requests, contact: info@beenjoy.it
